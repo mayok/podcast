@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Title D</title>
+    <item>
+      <title>Title D - Item 1</title>
+      <enclosure url="https://mayok-sandbox.github.io/podcast/d/"
+        length="1"
+        type="text/plain" />
+      <guid isPermaLink="true">https://mayok-sandbox.github.io/podcast/d/</guid>
+      <pubDate>today</pubDate>
+    </item>
+  </channel>
+</rss>
