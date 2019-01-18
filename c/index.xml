@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Title C</title>
+    <item>
+      <title>Title C - Item 1</title>
+      <enclosure url="https://mayok-sandbox.github.io/podcast/c/"
+        length="1"
+        type="text/plain" />
+      <guid isPermaLink="true">https://mayok-sandbox.github.io/podcast/c/</guid>
+      <pubDate>today</pubDate>
+    </item>
+    <item>
+      <title>Title C - Item 1</title>
+      <enclosure url="https://mayok-sandbox.github.io/podcast/c/"
+        length="1"
+        type="text/plain" />
+      <guid isPermaLink="true">https://mayok-sandbox.github.io/podcast/c/</guid>
+      <pubDate>tomorrow</pubDate>
+    </item>
+  </channel>
+</rss>
