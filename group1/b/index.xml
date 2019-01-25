@@ -6,17 +6,9 @@
       <title>Title B - Item 1</title>
       <enclosure url="https://mayok-sandbox.github.io/podcast/b/"
         length="1"
-        type="text/plain" />
+        type="video/mp4" />
       <guid isPermaLink="true">https://mayok-sandbox.github.io/podcast/b/</guid>
       <pubDate>today</pubDate>
-    </item>
-    <item>
-      <title>Title B - Item 2</title>
-      <enclosure url="https://mayok-sandbox.github.io/podcast/b/"
-        length="1"
-        type="text/plain" />
-      <guid isPermaLink="true">https://mayok-sandbox.github.io/podcast/b/</guid>
-      <pubDate>tomorrow</pubDate>
     </item>
   </channel>
 </rss>
