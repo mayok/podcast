@@ -6,7 +6,7 @@
       <title>Title A - Item 1</title>
       <enclosure url="https://mayok-sandbox.github.io/podcast/a/"
         length="1"
-        type="text/plain" />
+        type="video/mp4" />
       <guid isPermaLink="true">https://mayok-sandbox.github.io/podcast/a/</guid>
       <pubDate>today</pubDate>
     </item>
@@ -14,7 +14,7 @@
       <title>Title A - Item 2</title>
       <enclosure url="https://mayok-sandbox.github.io/podcast/a/"
         length="2"
-        type="text/plain" />
+        type="video/mp4" />
       <guid isPermaLink="true">https://mayok-sandbox.github.io/podcast/a/</guid>
       <pubDate>tomorrow</pubDate>
     </item>
